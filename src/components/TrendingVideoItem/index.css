@@ -1,0 +1,16 @@
+.trending-video-detail-dot {
+  color: #475569;
+  margin-bottom: 10px;
+}
+
+@media screen and (min-width: 576px) {
+  .trending-video-detail-dot {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .trending-video-count-dot {
+    display: none;
+  }
+}
